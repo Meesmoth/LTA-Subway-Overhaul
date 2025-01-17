@@ -7,6 +7,8 @@ The goal of the mod is to provide a more immersive subway experience without bre
 
 **Created and released in celebration for the [120th anniversary](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2024/10/26/new-york-city-subway-celebrates-120th-anniversary) of the subway system.**
 
+![](image.png)
+
 ## Contents
 - Replaced all subway signs that now captures the iconic NYC style
 - Several stations were renamed to eliminate repetitive/duplicate names
