@@ -1,4 +1,4 @@
-![https://gtaforums.com/topic/998885-lta-subway-overhaul-120th-anniversary-edition/](logo.png)
+![https://gtaforums.com/topic/998885-lta-subway-overhaul-120th-anniversary-edition/](logoupdated.png)
 
 # LTA Subway Overhaul
 A lore-friendly overhaul of Liberty City's subway system to faithfully resemble its real-life counterpart.
