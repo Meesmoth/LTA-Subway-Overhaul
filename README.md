@@ -26,13 +26,13 @@ The goal of the mod is to provide a more immersive subway experience without bre
 - Works with any version of GTA IV (1.0.0.0 to 1.0.8.0, & CE)
 
 ## Requirements
-- [FusionFix](https://gtaforums.com/topic/934545-fusionfix/) (for Fusion Overloader and vehicle budget value; CE users only)
-- [OpenIV](https://openiv.com/) or [SparkIV](https://ahmed605.github.io/SparkIV/) (for installation; preCE users only)
-- [RIL.Budgeted](https://gtaforums.com/topic/744584-reliv-rilbudgeted-population-budget-adjustertaxi-bug-fix/) (for vehicle budget value; preCE users only)
+- [FusionFix](https://gtaforums.com/topic/934545-fusionfix/) (for Fusion Overloader and vehicle budget value; 1.0.7.0/1.0.8.0 & CE users only)
+- [OpenIV](https://openiv.com/) or [SparkIV](https://ahmed605.github.io/SparkIV/) (for installation; other version users only)
+- [RIL.Budgeted](https://gtaforums.com/topic/744584-reliv-rilbudgeted-population-budget-adjustertaxi-bug-fix/) (for vehicle budget value; other version users only)
 
 ## Installation
-- For CE users, download the archive and simply extract all of its contents into "update" folder
-- Installation for preCE users is done manually, check readme for additional details
+- For 1.0.7.0/1.0.8.0 & CE users, download the archive and simply extract all of its contents into "update" folder
+- Installation for other version users is done manually, check readme for additional details
 
 ## Credits
 - Sonik-hedgehog and ces for the authentic R38 subway sounds
