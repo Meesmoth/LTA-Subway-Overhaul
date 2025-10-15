@@ -22,7 +22,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 
 ## Limitations/Issues
 - Higher resolution textures used by the subway trains might trigger the taxi bug as soon a train spawns nearby, so vehicle budget value may need to be increased if you encounter the bug
-- All subway trains will have the same destination sign, which is 8 - Firefly Island by default
+- All subway trains will have the same destination sign, which is **8 - Firefly Island** by default
 
 ## Compatibility
 - Works with any version of GTA IV (1.0.0.0 to 1.0.8.0, & CE)
