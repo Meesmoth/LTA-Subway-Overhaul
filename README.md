@@ -1,4 +1,4 @@
-![https://gtaforums.com/topic/998885-lta-subway-overhaul-120th-anniversary-edition/](logoupdated.png)
+![logo](https://github.com/user-attachments/assets/e4132f98-b37d-4b10-97fb-d4448790c6a5)
 
 # LTA Subway Overhaul
 A lore-friendly overhaul of Liberty City's subway system to faithfully resemble its real-life counterpart.
@@ -7,7 +7,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 
 **Created and released in celebration for the [120th anniversary](https://ny1.com/nyc/all-boroughs/traffic_and_transit/2024/10/26/new-york-city-subway-celebrates-120th-anniversary) of the subway system.**
 
-![](image.png)
+![preview](https://github.com/user-attachments/assets/e6f91ff7-005a-4349-bfec-4c86696ebb5d)
 
 ## Contents
 - Replaced all subway signs that now captures the iconic NYC style
