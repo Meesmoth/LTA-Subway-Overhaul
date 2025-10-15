@@ -10,17 +10,19 @@ The goal of the mod is to provide a more immersive subway experience without bre
 ![preview](https://github.com/user-attachments/assets/e6f91ff7-005a-4349-bfec-4c86696ebb5d)
 
 ## Contents
-- Replaced all subway signs that now captures the iconic NYC style
+- Replaced all subway signs that now captures the iconic NYC style: black with Helvetica font
 - Several stations were renamed to eliminate repetitive/duplicate names
+- All subway map at stations were replaced with a more accurate one
 - All subway audio announcements replaced
 - Changed text strings to match NYC's subway nomenclature
+- [Repositioned roof camera to the train's interior](https://www.nexusmods.com/gta4/mods/788)
 - Removed black-and-white filter when entering trains
 - [Retextured subway train to resemble the R38s](https://gtaforums.com/topic/994734-gta-iv-eflc-r38-subway/)
 - Replaced subway train sounds with ones from the R38s
 
 ## Limitations/Issues
 - Higher resolution textures used by the subway trains might trigger the taxi bug as soon a train spawns nearby, so vehicle budget value may need to be increased if you encounter the bug
-- All subway trains have the same destination sign, which is 8 - Firefly Island
+- All subway trains will have the same destination sign, which is 8 - Firefly Island by default
 
 ## Compatibility
 - Works with any version of GTA IV (1.0.0.0 to 1.0.8.0, & CE)
@@ -33,10 +35,13 @@ The goal of the mod is to provide a more immersive subway experience without bre
 ## Installation
 - For 1.0.7.0/1.0.8.0 & CE users, download the archive and simply extract all of its contents into "update" folder
 - Installation for other version users is done manually, check readme for additional details
+- Installing the additional train variants require OpenIV or SparkIV to open and edit .img files
 
 ## Credits
+- Valentyn_L and Attramet for the fixed models
 - Sonik-hedgehog and ces for the authentic R38 subway sounds
--  Ash_735 for the remastered vanilla textures
+- Ash_735 for the remastered vanilla textures
+- Kettmah for the repositioned roof camera
 
 ## Source audio
 - The source audio of the announcements can be [viewed and downloaded here](https://drive.google.com/file/d/1fzrWMjvo5oiZH2TTThMB8f4-GQWWXFQQ/view)
