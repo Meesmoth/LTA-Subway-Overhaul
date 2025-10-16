@@ -38,9 +38,9 @@ The goal of the mod is to provide a more immersive subway experience without bre
 - Installing the additional train variants require OpenIV or SparkIV to open and edit .img files
 
 ## Credits
-- Valentyn_L and Attramet for the fixed models
+- [Valentyn_L](https://github.com/valentyn-l) and [Attramet](https://github.com/Attramet) for the fixed models
 - Sonik-hedgehog and ces for the authentic R38 subway sounds
-- Ash_735 for the remastered vanilla textures
+- [Ash_735](https://github.com/Ash-735) for the remastered vanilla textures
 - Kettmah for the repositioned roof camera
 
 ## Source audio
