@@ -18,7 +18,7 @@ The goal of the mod is to provide a more immersive subway experience without bre
 - [Repositioned roof camera to the train's interior](https://www.nexusmods.com/gta4/mods/788)
 - Removed black-and-white filter when entering trains
 - [Retextured subway train to resemble the R38s](https://gtaforums.com/topic/994734-gta-iv-eflc-r38-subway/)
-- Replaced subway train sounds with ones from the R38s
+- [Replaced subway train sounds with ones from the R38s](https://www.gtainside.com/en/gta4/mods/41514-realism-series-subway-sounds/)
 
 ## Limitations/Issues
 - Higher resolution textures used by the subway trains might trigger the taxi bug as soon a train spawns nearby, so vehicle budget value may need to be increased if you encounter the bug
